@@ -1,4 +1,4 @@
-package tallyApplication;
+
 
 public class Tally {
 
