@@ -1,5 +1,7 @@
 import java.security.InvalidKeyException;
 import java.security.Key;
+import java.security.KeyPair;
+import java.security.KeyPairGenerator;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
@@ -14,6 +16,10 @@ public class CryptoEngine {
 	static Key keyEncodeRSA = null;
 	static Cipher decodeRsaCipher = null; // we want to re-use Ciphers
 	static Key keyDecodeRSA = null;
+	
+	static Key votePublicKey = null;
+	static Key votePrivateKey = null;
+	
 
 	// encode a byte array using RSA
 	public static byte[] encryptRSA(byte[] plaintext, Key publicKey) throws IllegalBlockSizeException, BadPaddingException, InvalidKeyException, NoSuchAlgorithmException, NoSuchPaddingException {
@@ -59,6 +65,29 @@ public class CryptoEngine {
         return output;  
 	}
 	
+	// return the keys for encrypting and decrypting vote.
+	// These should really be read from a file - this is an interim method
+	public static Key getVotePublicKey() throws NoSuchAlgorithmException {
+		if (votePublicKey == null) {
+			generateVoteKeys();
+		}
+		return votePublicKey;
+	}
+	
+	public static Key getVotePrivateKey() throws NoSuchAlgorithmException {
+		if (votePrivateKey == null) {
+			generateVoteKeys();
+		}
+		return votePrivateKey;
+	}
+	
+	static void generateVoteKeys() throws NoSuchAlgorithmException {
+		KeyPairGenerator keyPairGenerator = KeyPairGenerator.getInstance("RSA");
+		keyPairGenerator.initialize(4096);
+		KeyPair keyPair = keyPairGenerator.generateKeyPair();
+		votePrivateKey = keyPair.getPrivate();
+		votePublicKey = keyPair.getPublic();
+	}
 	
 	
 }

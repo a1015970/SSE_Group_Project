@@ -10,4 +10,23 @@ public class BallotPaper {
 		this.partyList = partyList;
 		this.ungroupedCandidates = ungroupedCandidates;
 	}
+	
+	
+	public Candidate getCandidateById(Integer id) throws Exception {
+		// first search ungrouped candidates
+		for (Candidate c : ungroupedCandidates) {
+			if (c.uid == id) {
+				return c;
+			}
+		}
+		// then search parties
+		for (Party p : partyList) {
+			for (Candidate c : p.candidates) {
+				if (c.uid == id) {
+					return c;
+				}
+			}
+		}
+		throw new CandidateNotFoundException("Candidate not found");
+	}
 }
