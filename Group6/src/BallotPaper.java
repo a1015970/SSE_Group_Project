@@ -12,7 +12,7 @@ public class BallotPaper {
 	}
 	
 	
-	public Candidate getCandidateById(Integer id) throws Exception {
+	public Candidate getCandidateById(Integer id) throws CandidateNotFoundException {
 		// first search ungrouped candidates
 		for (Candidate c : ungroupedCandidates) {
 			if (c.uid == id) {
@@ -27,6 +27,16 @@ public class BallotPaper {
 				}
 			}
 		}
-		throw new CandidateNotFoundException("Candidate not found");
+		throw new CandidateNotFoundException("Candidate not found - id = " + id);
+	}
+	
+	
+	public Party getPartyById(Integer id) throws PartyNotFoundException {
+		for (Party p : partyList) {
+			if (p.uid == id) {
+				return p;
+			}
+		}
+		throw new PartyNotFoundException("Party not found - id = " + id);
 	}
 }
