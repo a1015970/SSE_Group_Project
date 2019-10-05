@@ -5,6 +5,7 @@ import java.security.Key;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import java.security.NoSuchAlgorithmException;
+import java.security.spec.InvalidKeySpecException;
 import java.util.ArrayList;
 import java.util.Base64;
 
@@ -160,7 +161,7 @@ public class Vote {
 		}
 	}
 	
-	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
+	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException, InvalidKeySpecException {
 		Key privateKey = CryptoEngine.getVotePrivateKey();
 		Key publicKey = CryptoEngine.getVotePublicKey();
 		Vote v = new Vote(null);
@@ -173,7 +174,9 @@ public class Vote {
 		System.out.println("Encrypted Text:");
 		System.out.println(Base64.getEncoder().encodeToString(encryptedVote));
 		System.out.println("public key:");
+		System.out.println("-----BEGIN RSA PUBLIC KEY-----");
 		System.out.println(Base64.getEncoder().encodeToString(publicKey.getEncoded()));
+		System.out.println("-----END RSA PUBLIC KEY-----");
 		System.out.println("private key:");
 		System.out.println("-----BEGIN RSA PRIVATE KEY-----");
 		System.out.println(Base64.getEncoder().encodeToString(privateKey.getEncoded()));
