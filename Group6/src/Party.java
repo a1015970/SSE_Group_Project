@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public class Party {
@@ -11,4 +12,10 @@ public class Party {
 		this.candidates = candidates;
 	}
 
+	public Party(String partyName, Integer uid) {
+		this.partyName = partyName;
+		this.uid = uid;
+		this.candidates = new ArrayList<Candidate>();
+	}
+	
 }
