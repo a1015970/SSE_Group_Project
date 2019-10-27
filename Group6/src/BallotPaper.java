@@ -7,12 +7,14 @@ import java.util.List;
 public class BallotPaper {
 	public final List<Party> partyList;
 	public final List<Candidate> ungroupedCandidates;
-	
+	public  List<Integer> excludedCandidates;
+
 	// interim constructor
 	// final version -read a file (CSV or JSON?) and create candidates and parties
 	public BallotPaper(List<Party> partyList, List<Candidate> ungroupedCandidates) {
 		this.partyList = partyList;
 		this.ungroupedCandidates = ungroupedCandidates;
+		this.excludedCandidates = new ArrayList<Integer>();
 	}
 	
 	
@@ -22,6 +24,7 @@ public class BallotPaper {
 		List<String> partyNames = new ArrayList<String>();
 		this.partyList = new ArrayList<Party>();
 		this.ungroupedCandidates = new ArrayList<Candidate>();
+		this.excludedCandidates = new ArrayList<Integer>();
 		int partyUID = 0;
 		int candidateUID = 0;
 		try {
@@ -92,6 +95,11 @@ public class BallotPaper {
 	}
 	
 	
+	public boolean isCandidateExcluded(int uid) {
+		return this.excludedCandidates.contains(uid);
+	}
+	
+	
 	public Party getPartyById(Integer id) throws PartyNotFoundException {
 		for (Party p : partyList) {
 			if (p.uid == id) {
@@ -101,7 +109,7 @@ public class BallotPaper {
 		throw new PartyNotFoundException("Party not found - id = " + id);
 	}
 	
-	
+	@Override
 	public String toString() {
 		String str = "";
 		for (Party p : partyList) {

@@ -18,4 +18,8 @@ public class Party {
 		this.candidates = new ArrayList<Candidate>();
 	}
 	
+	@Override
+	public String toString() {
+		return this.partyName;
+	}
 }
