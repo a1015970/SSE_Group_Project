@@ -33,7 +33,7 @@ public class BallotPaper {
 			while (line != null) {
 				String[] parts = line.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)");
 				if (parts[0].equals(state)) {
-					System.out.println(line);
+					//System.out.println(line);
 					String partyStr = parts[1];
 					if (partyStr.startsWith("\"")) {
 						partyStr = partyStr.substring(1, partyStr.length()-1);

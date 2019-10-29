@@ -60,6 +60,35 @@ public class CryptoEngine {
 	}
 	
 	
+	// encode a byte array using 256-bit AES, using a password thru PBKDF2
+	public static byte[] encryptAES(byte[] plaintext, String password) throws IllegalBlockSizeException, BadPaddingException, InvalidKeyException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
+		byte[] salt = {1,2,3,4,5,6,7,8,9,0};
+		int iterations = 100000;
+        PBEKeySpec spec = new PBEKeySpec(password.toCharArray(), salt, iterations, 256);
+        SecretKeyFactory skf = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
+        SecretKey key = skf.generateSecret(spec);
+        key = new SecretKeySpec(key.getEncoded(), "AES");
+        Cipher c = Cipher.getInstance("AES/CBC/PKCS5Padding");
+        c.init(Cipher.ENCRYPT_MODE, key, new IvParameterSpec(new byte[16]));
+        byte[] encrypted = c.doFinal(plaintext);
+		return encrypted;
+	}
+	
+	// decode a byte array using 256-bit AES
+	public static byte[] decryptAES(byte[] encrypted, String password) throws IllegalBlockSizeException, BadPaddingException, InvalidKeyException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
+		byte[] salt = {1,2,3,4,5,6,7,8,9,0};
+		int iterations = 100000;
+        PBEKeySpec spec = new PBEKeySpec(password.toCharArray(), salt, iterations, 256);
+        SecretKeyFactory skf = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
+        SecretKey key = skf.generateSecret(spec);
+        key = new SecretKeySpec(key.getEncoded(), "AES");
+        Cipher d = Cipher.getInstance("AES/CBC/PKCS5Padding");
+        d.init(Cipher.DECRYPT_MODE, key, new IvParameterSpec(new byte[16]));
+        byte[] decrypted = d.doFinal(encrypted);
+        return decrypted;
+	}
+	
+	
 	// calculate SHA256 hash of input
 	public static byte[] hashSHA256(byte[] input) throws NoSuchAlgorithmException {
 		MessageDigest md = MessageDigest.getInstance("SHA-256");  
@@ -117,30 +146,17 @@ public class CryptoEngine {
 	
 	
 	public static void main(String[] args) throws InvalidKeySpecException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, InvalidAlgorithmParameterException {
-		byte[] salt = {1,2,3,4,5,6,7,8,9,0};
-		int iterations = 100000;
-		long start = System.currentTimeMillis();
-        PBEKeySpec spec = new PBEKeySpec("password".toCharArray(), salt, iterations, 128);
-        SecretKeyFactory skf = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
-        SecretKey key = skf.generateSecret(spec);
-        System.out.println("Key length: " + key.getEncoded().length + " bytes");
-        System.out.println("Key: " + Base64.getEncoder().encode(key.getEncoded()));
-        key = new SecretKeySpec(key.getEncoded(), "AES");
-        long end = System.currentTimeMillis();
-        System.out.println(iterations + " iterations took " + (end-start) + " ms");
-        
-        Cipher c = Cipher.getInstance("AES/CBC/PKCS5Padding");
-        c.init(Cipher.ENCRYPT_MODE, key, new IvParameterSpec(new byte[16]));
-        byte[] encrypted = c.doFinal("plaintext".getBytes());
-        System.out.println("Encrypted: " + encrypted.toString());
-        System.out.println("Encrypted: " + new String(encrypted));
-        System.out.println("Encrypted: " + Base64.getEncoder().encode(encrypted));
-        
-        Cipher d = Cipher.getInstance("AES/CBC/PKCS5Padding");
-        d.init(Cipher.DECRYPT_MODE, key, new IvParameterSpec(new byte[16]));
-        byte[] decrypted = d.doFinal(encrypted);
-        System.out.println("Decrypted: " + new String(decrypted));
+        String password = "test";
+        String plaintext = "This is the plaintext";
+        byte[] enc = CryptoEngine.encryptAES(plaintext.getBytes(), password);
+        String dec = new String(CryptoEngine.decryptAES(enc, password));
+        System.out.println(plaintext + "  " + dec);
 	}
 	
-	
+	public static String byteArrayToHex(byte[] a) {
+		StringBuilder sb = new StringBuilder(a.length * 2);
+		for(byte b: a)
+			sb.append(String.format("%02x", b));
+		return sb.toString();
+	}
 }

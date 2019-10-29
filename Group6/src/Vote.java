@@ -148,8 +148,9 @@ public class Vote {
 	
 	// convert this Vote to a compact Byte array
 	public byte[] getBytes() {
+		byte[] theseBytes = new byte[256];
 		if (voteType == voteTypes.NOT_DEFINED) {
-			byte[] theseBytes = {-1};
+			theseBytes[0] = -1;
 			return theseBytes;
 		}
 		int numPreferences;
@@ -160,7 +161,6 @@ public class Vote {
 		} else {
 			numPreferences = 0;
 		}
-		byte[] theseBytes = new byte[numPreferences+1];
 		if (voteType == voteTypes.ABOVE_LINE) {
 			theseBytes[0] = 1;
 		} else if (voteType == voteTypes.BELOW_LINE) {
@@ -168,11 +168,12 @@ public class Vote {
 		} else {
 			theseBytes[0] = -1;
 		}
+		theseBytes[1] = (byte) numPreferences;
 		for (int i = 0; i < numPreferences; i++) {
 			if (voteType == voteTypes.ABOVE_LINE) {
-				theseBytes[i+1] = (byte) preferencesAbove[i];
+				theseBytes[i+2] = (byte) preferencesAbove[i];
 			} else {
-				theseBytes[i+1] = (byte) preferencesBelow[i];
+				theseBytes[i+2] = (byte) preferencesBelow[i];
 			}
 		}
 		return theseBytes;
