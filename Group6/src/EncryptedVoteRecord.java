@@ -10,8 +10,8 @@ import javax.crypto.NoSuchPaddingException;
 public class EncryptedVoteRecord {
 	
 	public byte[] AuthTokenHash = new byte[32]; // SHA256
-	public byte[] VerificationTokenHash = new byte[32]; // SHA256
-	public byte[] VerificationTokenEncrypted = new byte[512]; // RSA 4096 
+	public byte[] VerificationCodeHash = new byte[32]; // SHA256
+	public byte[] VerificationCodeEncrypted = new byte[512]; // RSA 4096 
 	public byte[] VoteEncrypted = new byte[272]; // AES 
 
 	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {

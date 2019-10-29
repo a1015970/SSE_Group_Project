@@ -63,7 +63,7 @@ public class CryptoEngine {
 	// encode a byte array using 256-bit AES, using a password thru PBKDF2
 	public static byte[] encryptAES(byte[] plaintext, String password) throws IllegalBlockSizeException, BadPaddingException, InvalidKeyException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
 		byte[] salt = {1,2,3,4,5,6,7,8,9,0};
-		int iterations = 100000;
+		int iterations = 100000; iterations = 1000;
         PBEKeySpec spec = new PBEKeySpec(password.toCharArray(), salt, iterations, 256);
         SecretKeyFactory skf = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
         SecretKey key = skf.generateSecret(spec);
@@ -77,7 +77,7 @@ public class CryptoEngine {
 	// decode a byte array using 256-bit AES
 	public static byte[] decryptAES(byte[] encrypted, String password) throws IllegalBlockSizeException, BadPaddingException, InvalidKeyException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
 		byte[] salt = {1,2,3,4,5,6,7,8,9,0};
-		int iterations = 100000;
+		int iterations = 100000; iterations = 1000;
         PBEKeySpec spec = new PBEKeySpec(password.toCharArray(), salt, iterations, 256);
         SecretKeyFactory skf = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256");
         SecretKey key = skf.generateSecret(spec);
@@ -144,6 +144,12 @@ public class CryptoEngine {
 	    votePrivateKey =  kfPriv.generatePrivate(specPriv);
 	}
 	
+	public static String byteArrayToHex(byte[] a) {
+		StringBuilder sb = new StringBuilder(a.length * 2);
+		for(byte b: a)
+			sb.append(String.format("%02x", b));
+		return sb.toString();
+	}
 	
 	public static void main(String[] args) throws InvalidKeySpecException, NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, InvalidAlgorithmParameterException {
         String password = "test";
@@ -153,10 +159,4 @@ public class CryptoEngine {
         System.out.println(plaintext + "  " + dec);
 	}
 	
-	public static String byteArrayToHex(byte[] a) {
-		StringBuilder sb = new StringBuilder(a.length * 2);
-		for(byte b: a)
-			sb.append(String.format("%02x", b));
-		return sb.toString();
-	}
 }
