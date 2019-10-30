@@ -63,6 +63,14 @@ public class EncryptedVoteRecord {
 		System.out.println("Decrypting vote ...");
 		ArrayList<Vote> votes = decryptVotes(evr, key, bp);
 		System.out.println("Successfully decrypted vote");
+		
+		System.out.println("Starting tally ...");
+		Tally.ballotPaper = bp;
+		Tally.voteList = votes;
+		Tally.numCandidatesToElect = 6; //6 for half senate, 12 for full senate
+		Tally.tallyVotes();
+		System.out.println("Tally completed");
+
 	}
 	
 	// divide record in the four fields
@@ -228,6 +236,9 @@ public class EncryptedVoteRecord {
 			// create Vote object from vote array
 			Vote v = new Vote(voteBytes, ballotPaper);
 			votes.add(v);
+			if (i%100 == 0) {
+				System.out.println("Processed " + i + " of " + encryptedVotes.size());
+			}
 		}
 		return votes;
 	}
