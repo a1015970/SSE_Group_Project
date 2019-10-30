@@ -57,7 +57,7 @@ public class EncryptedVoteRecord {
 		System.out.println("Successfully decrypted verification codes");
 		*/
 		System.out.println("Verifying vote ...");
-		//verifyEncryptedVotes(evr, key);
+		verifyEncryptedVotes(evr, key);
 		System.out.println("Successfully verified vote");
 		
 		System.out.println("Decrypting vote ...");
@@ -189,6 +189,9 @@ public class EncryptedVoteRecord {
 				return false;
 			}
 			prevTime = bytesToLong(thisTimeBytes);
+			if (i%100 == 0) {
+				System.out.println("Verified " + i + " of " + votes.size());
+			}
 		}
 		return true;
 	}
@@ -237,7 +240,7 @@ public class EncryptedVoteRecord {
 			Vote v = new Vote(voteBytes, ballotPaper);
 			votes.add(v);
 			if (i%100 == 0) {
-				System.out.println("Processed " + i + " of " + encryptedVotes.size());
+				System.out.println("Decrypted " + i + " of " + encryptedVotes.size());
 			}
 		}
 		return votes;
