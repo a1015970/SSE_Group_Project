@@ -43,28 +43,29 @@ public class Vote {
 	}
 
 	// constructor for Vote from encrypted vote
-	public Vote(byte[] encryptedVote, Key privateKey, BallotPaper ballotPaper) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
+	public Vote(byte[] decoded, BallotPaper ballotPaper) {
 		this.ballotPaper = ballotPaper;
 		voteType = voteTypes.NOT_DEFINED;
 		preferencesAbove = new int[0];
 		preferencesBelow = new int[0];
 		// decrypt vote
-		byte[] decoded = CryptoEngine.decryptRSA(encryptedVote, privateKey);
 		//for (int i : decoded) {
 		//	System.out.println(i);
 		//}
 		// create new Vote object
 		if (decoded[0] == 1) {
 			this.voteType = voteTypes.ABOVE_LINE;
-			this.preferencesAbove = new int[decoded.length-1];
-			for (int i = 1; i < decoded.length; i++) {
-				this.preferencesAbove[i-1] = decoded[i];
+			int numVotes = decoded[1];
+			this.preferencesAbove = new int[numVotes];
+			for (int i = 0; i < numVotes; i++) {
+				this.preferencesAbove[i] = decoded[i+2];
 			}
 		} else if (decoded[0] == 2) {
 			this.voteType = voteTypes.BELOW_LINE;
-			this.preferencesBelow = new int[decoded.length-1];
-			for (int i = 1; i < decoded.length; i++) {
-				this.preferencesBelow[i-1] = decoded[i];
+			int numVotes = decoded[1];
+			this.preferencesBelow = new int[numVotes];
+			for (int i = 0; i < numVotes; i++) {
+				this.preferencesBelow[i] = decoded[i+2];
 			}
 		} else {
 			this.voteType = voteTypes.NOT_DEFINED;
@@ -270,7 +271,7 @@ public class Vote {
 		v.preferencesAbove = votes;
 		byte[] encryptedVote = v.encrypt(publicKey);
 		System.out.println("Length of encrypted vote: " + encryptedVote.length);
-		Vote newVote = new Vote(encryptedVote, privateKey, null);
+		//Vote newVote = new Vote(encryptedVote, privateKey, null);
 		System.out.println("Encrypted Text:");
 		System.out.println(Base64.getEncoder().encodeToString(encryptedVote));
 		System.out.println("public key:");

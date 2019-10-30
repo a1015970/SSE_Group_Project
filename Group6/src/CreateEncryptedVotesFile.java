@@ -61,6 +61,7 @@ public class CreateEncryptedVotesFile {
 			verifCodeHashes.add(i, CryptoEngine.hashSHA256(longToBytes(verifCodes[i])));
 			Vote v = Vote.getRandomVote(bp);
 			votesEncrypted.add(i, CryptoEngine.encryptAES(v.getBytes(), new String(longToBytes(verifCodes[i]))));
+			// verifCodeAndTimeStamps contains 3 pieces of information - key and two timestamps
 			byte[] verifCodeAndTimeStamps = new byte[8*3];
 			byte[] thisTime = longToBytes(java.lang.System.currentTimeMillis());
 			byte[] verifCode = longToBytes(verifCodes[i]);
@@ -74,12 +75,23 @@ public class CreateEncryptedVotesFile {
 			if (i%1000 == 0) {
 				System.out.println("Processed " + i + " of " + numVotes);
 			}
+			/*
+			// small in-place test a debug
+			Key privKey = CryptoEngine.getVotePrivateKey();
+			byte[] codeDec = CryptoEngine.decryptRSA(verifCodeEncrypted.get(i), privKey);
+			long tmp = bytesToLong(codeDec);
+			byte[] testDecrypt = CryptoEngine.decryptAES(votesEncrypted.get(i), new String(longToBytes(tmp)));
+			System.out.println(authTokenHashes.get(i).length);
+			System.out.println(verifCodeHashes.get(i).length);
+			System.out.println(verifCodeEncrypted.get(i).length);
+			System.out.println(votesEncrypted.get(i).length);
+			*/
 		}
 
 		// now write them out to file
 		String outputFile = "EncryptedVoteRecord.dat";
 		System.out.println("writing " + outputFile);
-		
+
 		try {
 			OutputStream outputStream = new FileOutputStream(outputFile);
 			for (int i = 0; i < numVotes; i++) {
@@ -92,7 +104,9 @@ public class CreateEncryptedVotesFile {
 		} catch (IOException ex) {
 			ex.printStackTrace();
 		}
+
 		System.out.println("Finished! ");
+
 	}
 
 }
