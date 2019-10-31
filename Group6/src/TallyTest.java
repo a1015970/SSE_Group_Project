@@ -11,7 +11,7 @@ import javax.crypto.NoSuchPaddingException;
 
 public class TallyTest {
 	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
-		BallotPaper bp = new BallotPaper("\\Users\\Chris\\git\\SSE_Group_Project\\SenateCandidates2016RandomOrder.csv", "SA");
+		BallotPaper bp = new BallotPaper("SenateCandidates2016RandomOrder.csv", "SA");
 		
 		ArrayList<byte[]> evr = EncryptedVoteRecord.readEncryptedVotesFile("EncryptedVoteRecord.dat");
 		System.out.println("Read votes :" + evr.size());

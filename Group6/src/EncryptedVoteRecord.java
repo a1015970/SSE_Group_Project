@@ -1,8 +1,6 @@
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;
 import java.security.Key;
@@ -13,9 +11,10 @@ import java.util.ArrayList;
 import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
-import javax.crypto.SecretKey;
 
 public class EncryptedVoteRecord {
+	
+	public static final int numVotes = 1000;
 	
 	public byte[] AuthTokenHash = new byte[32]; // SHA256
 	public byte[] VerificationCodeHash = new byte[32]; // SHA256
@@ -46,16 +45,6 @@ public class EncryptedVoteRecord {
 		System.out.println("Read votes :" + evr.size());
 		
 		Key key = CryptoEngine.getVotePrivateKey();
-		/*
-		for (int i = 0; i < evr.size(); i++) {
-			ArrayList<byte[]> fields = divideEncryptedVoteRecord(evr.get(i));
-			byte[] decryptedVerificationCode = CryptoEngine.decryptRSA(fields.get(2), key);
-			if (i%100 == 0) {
-				System.out.println("Processed " + i + " of " + evr.size());
-			}
-		}
-		System.out.println("Successfully decrypted verification codes");
-		*/
 		System.out.println("Verifying vote ...");
 		verifyEncryptedVotes(evr, key);
 		System.out.println("Successfully verified vote");
@@ -111,7 +100,7 @@ public class EncryptedVoteRecord {
 	// read an encrypted votes file.
 	// each record gets returned as a single byte array
 	public static ArrayList<byte[]> readEncryptedVotesFile(String filename) {
-		final int numVotes = 10000;
+		//final int numVotes = 10000;
 		final int len = 32+32+272+512; // size of encrypted vote record in bytes
 		ArrayList<byte[]> encryptedVotes = new ArrayList<byte[]>(numVotes);
 		System.out.println("reading " + filename);
@@ -135,7 +124,7 @@ public class EncryptedVoteRecord {
 	// 2) that the VerificationCodeEncrypted timestamps are in order
 	public static boolean verifyEncryptedVotes(ArrayList<byte[]> votes, Key privateKey) {
 		// re-create fake authTokens
-		final int numVotes = 10000;
+		//final int numVotes = 10000;
 		long[] authTokens = new long[numVotes];
 		for (int i = 0; i < numVotes; i++) {
 			authTokens[i] = 1000000000000000L + i;
@@ -198,7 +187,7 @@ public class EncryptedVoteRecord {
 	
 	// actually decrypt the votes
 	public static ArrayList<Vote> decryptVotes(ArrayList<byte[]> encryptedVotes, Key privateKey, BallotPaper ballotPaper) {
-		final int numVotes = 10000;
+		//final int numVotes = 10000;
 		ArrayList<Vote> votes = new ArrayList<Vote>();
 		
 		// iterate over array
