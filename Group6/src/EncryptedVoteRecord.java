@@ -14,7 +14,7 @@ import javax.crypto.NoSuchPaddingException;
 
 public class EncryptedVoteRecord {
 	
-	public static final int numVotes = 1000;
+	public static final int numVotes = 10000;
 	
 	public byte[] AuthTokenHash = new byte[32]; // SHA256
 	public byte[] VerificationCodeHash = new byte[32]; // SHA256
