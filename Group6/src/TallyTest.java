@@ -9,6 +9,9 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
+
+// Perform a test of the tally system, using pre-generated fake vote data
+// see README.TXT for more details
 public class TallyTest {
 	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
 		BallotPaper bp = new BallotPaper("SenateCandidates2016RandomOrder.csv", "SA");

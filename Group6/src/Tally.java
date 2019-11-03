@@ -6,12 +6,14 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+// a class with static members and methods to perform a tally of the vote
 public class Tally {
-	
+	// these fields may need to be set before calling Tally.tallyvOTES()
 	public static BallotPaper ballotPaper = null;
 	public static List<Vote> voteList = null;
 	public static List<Integer> excludedCandidates = new ArrayList<Integer>();
 	public static int numCandidatesToElect = 0; 
+	// and these fields will be set after the tally is complete
 	public static List<Integer> electedCandidates = new ArrayList<Integer>();
 	public static List<String> tallyLog = new ArrayList<String>();
 	
@@ -37,6 +39,7 @@ public class Tally {
 		return tally;
 	}
 	
+	// use a single log() routine so that messages can be printed to the console and also saved for later
 	static void log(String s) {
 		tallyLog.add(s);
 		boolean showLog = true;
@@ -157,6 +160,7 @@ public class Tally {
 		}
 	}
 	
+	// a utility function to convert all votes to below the line.
 	public static void convertVotesToBelowLine() {
 		for (Vote v : voteList) {
 			try {
@@ -167,6 +171,7 @@ public class Tally {
 		}
 	}
 
+	// a simple unit test
 	public static void main(String[] args) throws CandidateNotFoundException {
 		ballotPaper = new BallotPaper("\\Users\\Chris\\git\\SSE_Group_Project\\SenateCandidates2016RandomOrder.csv", "SA");
 		System.out.println(ballotPaper);

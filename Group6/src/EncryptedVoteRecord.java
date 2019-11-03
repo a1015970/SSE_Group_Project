@@ -12,6 +12,7 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
+// Functions for loading, verifying and decrypting the encrypted vote file
 public class EncryptedVoteRecord {
 	
 	public static final int numVotes = 10000;
@@ -38,6 +39,7 @@ public class EncryptedVoteRecord {
 	    return result;
 	}
 
+	// a simple test - very similar to TallyTest but less robust
 	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException, NoSuchPaddingException, InvalidKeySpecException, InvalidAlgorithmParameterException {
 		BallotPaper bp = new BallotPaper("\\Users\\Chris\\git\\SSE_Group_Project\\SenateCandidates2016RandomOrder.csv", "SA");
 		

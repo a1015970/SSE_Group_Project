@@ -12,6 +12,8 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
+// Create a file of 10000 encrypted fake (random) votes for testing
+// see README.TXT for more details
 public class CreateEncryptedVotesFile {
 	
 	public static long bytesToLong(byte[] b) {
@@ -41,7 +43,7 @@ public class CreateEncryptedVotesFile {
 		Random rand = new Random();
 		final int numVotes = 10000;
 		
-		BallotPaper bp = new BallotPaper("\\Users\\Chris\\git\\SSE_Group_Project\\SenateCandidates2016RandomOrder.csv", "SA");
+		BallotPaper bp = new BallotPaper("SenateCandidates2016RandomOrder.csv", "SA");
 
 		long[] authTokens = new long[numVotes];
 		long[] verifCodes = new long[numVotes];

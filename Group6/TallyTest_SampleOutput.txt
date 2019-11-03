@@ -1,0 +1,2346 @@
+reading EncryptedVoteRecord.dat
+File successfully read.
+Read votes :10000
+Verifying vote ...
+Verified 100 of 10000
+Verified 200 of 10000
+Verified 300 of 10000
+Verified 400 of 10000
+Verified 500 of 10000
+Verified 600 of 10000
+Verified 700 of 10000
+Verified 800 of 10000
+Verified 900 of 10000
+Verified 1000 of 10000
+Verified 1100 of 10000
+Verified 1200 of 10000
+Verified 1300 of 10000
+Verified 1400 of 10000
+Verified 1500 of 10000
+Verified 1600 of 10000
+Verified 1700 of 10000
+Verified 1800 of 10000
+Verified 1900 of 10000
+Verified 2000 of 10000
+Verified 2100 of 10000
+Verified 2200 of 10000
+Verified 2300 of 10000
+Verified 2400 of 10000
+Verified 2500 of 10000
+Verified 2600 of 10000
+Verified 2700 of 10000
+Verified 2800 of 10000
+Verified 2900 of 10000
+Verified 3000 of 10000
+Verified 3100 of 10000
+Verified 3200 of 10000
+Verified 3300 of 10000
+Verified 3400 of 10000
+Verified 3500 of 10000
+Verified 3600 of 10000
+Verified 3700 of 10000
+Verified 3800 of 10000
+Verified 3900 of 10000
+Verified 4000 of 10000
+Verified 4100 of 10000
+Verified 4200 of 10000
+Verified 4300 of 10000
+Verified 4400 of 10000
+Verified 4500 of 10000
+Verified 4600 of 10000
+Verified 4700 of 10000
+Verified 4800 of 10000
+Verified 4900 of 10000
+Verified 5000 of 10000
+Verified 5100 of 10000
+Verified 5200 of 10000
+Verified 5300 of 10000
+Verified 5400 of 10000
+Verified 5500 of 10000
+Verified 5600 of 10000
+Verified 5700 of 10000
+Verified 5800 of 10000
+Verified 5900 of 10000
+Verified 6000 of 10000
+Verified 6100 of 10000
+Verified 6200 of 10000
+Verified 6300 of 10000
+Verified 6400 of 10000
+Verified 6500 of 10000
+Verified 6600 of 10000
+Verified 6700 of 10000
+Verified 6800 of 10000
+Verified 6900 of 10000
+Verified 7000 of 10000
+Verified 7100 of 10000
+Verified 7200 of 10000
+Verified 7300 of 10000
+Verified 7400 of 10000
+Verified 7500 of 10000
+Verified 7600 of 10000
+Verified 7700 of 10000
+Verified 7800 of 10000
+Verified 7900 of 10000
+Verified 8000 of 10000
+Verified 8100 of 10000
+Verified 8200 of 10000
+Verified 8300 of 10000
+Verified 8400 of 10000
+Verified 8500 of 10000
+Verified 8600 of 10000
+Verified 8700 of 10000
+Verified 8800 of 10000
+Verified 8900 of 10000
+Verified 9000 of 10000
+Verified 9100 of 10000
+Verified 9200 of 10000
+Verified 9300 of 10000
+Verified 9400 of 10000
+Verified 9500 of 10000
+Verified 9600 of 10000
+Verified 9700 of 10000
+Verified 9800 of 10000
+Verified 9900 of 10000
+Successfully verified vote
+Decrypting vote ...
+Decrypted 0 of 10000
+Decrypted 100 of 10000
+Decrypted 200 of 10000
+Decrypted 300 of 10000
+Decrypted 400 of 10000
+Decrypted 500 of 10000
+Decrypted 600 of 10000
+Decrypted 700 of 10000
+Decrypted 800 of 10000
+Decrypted 900 of 10000
+Decrypted 1000 of 10000
+Decrypted 1100 of 10000
+Decrypted 1200 of 10000
+Decrypted 1300 of 10000
+Decrypted 1400 of 10000
+Decrypted 1500 of 10000
+Decrypted 1600 of 10000
+Decrypted 1700 of 10000
+Decrypted 1800 of 10000
+Decrypted 1900 of 10000
+Decrypted 2000 of 10000
+Decrypted 2100 of 10000
+Decrypted 2200 of 10000
+Decrypted 2300 of 10000
+Decrypted 2400 of 10000
+Decrypted 2500 of 10000
+Decrypted 2600 of 10000
+Decrypted 2700 of 10000
+Decrypted 2800 of 10000
+Decrypted 2900 of 10000
+Decrypted 3000 of 10000
+Decrypted 3100 of 10000
+Decrypted 3200 of 10000
+Decrypted 3300 of 10000
+Decrypted 3400 of 10000
+Decrypted 3500 of 10000
+Decrypted 3600 of 10000
+Decrypted 3700 of 10000
+Decrypted 3800 of 10000
+Decrypted 3900 of 10000
+Decrypted 4000 of 10000
+Decrypted 4100 of 10000
+Decrypted 4200 of 10000
+Decrypted 4300 of 10000
+Decrypted 4400 of 10000
+Decrypted 4500 of 10000
+Decrypted 4600 of 10000
+Decrypted 4700 of 10000
+Decrypted 4800 of 10000
+Decrypted 4900 of 10000
+Decrypted 5000 of 10000
+Decrypted 5100 of 10000
+Decrypted 5200 of 10000
+Decrypted 5300 of 10000
+Decrypted 5400 of 10000
+Decrypted 5500 of 10000
+Decrypted 5600 of 10000
+Decrypted 5700 of 10000
+Decrypted 5800 of 10000
+Decrypted 5900 of 10000
+Decrypted 6000 of 10000
+Decrypted 6100 of 10000
+Decrypted 6200 of 10000
+Decrypted 6300 of 10000
+Decrypted 6400 of 10000
+Decrypted 6500 of 10000
+Decrypted 6600 of 10000
+Decrypted 6700 of 10000
+Decrypted 6800 of 10000
+Decrypted 6900 of 10000
+Decrypted 7000 of 10000
+Decrypted 7100 of 10000
+Decrypted 7200 of 10000
+Decrypted 7300 of 10000
+Decrypted 7400 of 10000
+Decrypted 7500 of 10000
+Decrypted 7600 of 10000
+Decrypted 7700 of 10000
+Decrypted 7800 of 10000
+Decrypted 7900 of 10000
+Decrypted 8000 of 10000
+Decrypted 8100 of 10000
+Decrypted 8200 of 10000
+Decrypted 8300 of 10000
+Decrypted 8400 of 10000
+Decrypted 8500 of 10000
+Decrypted 8600 of 10000
+Decrypted 8700 of 10000
+Decrypted 8800 of 10000
+Decrypted 8900 of 10000
+Decrypted 9000 of 10000
+Decrypted 9100 of 10000
+Decrypted 9200 of 10000
+Decrypted 9300 of 10000
+Decrypted 9400 of 10000
+Decrypted 9500 of 10000
+Decrypted 9600 of 10000
+Decrypted 9700 of 10000
+Decrypted 9800 of 10000
+Decrypted 9900 of 10000
+Successfully decrypted vote
+Starting tally ...
+Started tally
+Convert preference to below line
+Quota is 1429.0
+Tally round 0
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+913.0 : 1 (HAHN, John)
+894.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+629.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+500.0 : 12 (TUAZON-McCHEYNE, Adrian)
+52.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+97.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+53.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+3.0 : 53 (CRAWFORD, Terence Michael)
+2.0 : 54 (SIEBERT, Paul)
+3.0 : 55 (RUSTON, Anne)
+2.0 : 56 (GROSSER, Lynn-Marie)
+1.0 : 57 (FARRELL, Don)
+Excluded candidate FARRELL, Don with 1.0 votes
+Tally round 1
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+913.0 : 1 (HAHN, John)
+894.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+629.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+501.0 : 12 (TUAZON-McCHEYNE, Adrian)
+52.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+97.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+53.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+3.0 : 53 (CRAWFORD, Terence Michael)
+2.0 : 54 (SIEBERT, Paul)
+3.0 : 55 (RUSTON, Anne)
+2.0 : 56 (GROSSER, Lynn-Marie)
+Excluded candidate SIEBERT, Paul with 2.0 votes
+Tally round 2
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+913.0 : 1 (HAHN, John)
+894.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+630.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+501.0 : 12 (TUAZON-McCHEYNE, Adrian)
+52.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+97.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+54.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+3.0 : 53 (CRAWFORD, Terence Michael)
+3.0 : 55 (RUSTON, Anne)
+2.0 : 56 (GROSSER, Lynn-Marie)
+Excluded candidate GROSSER, Lynn-Marie with 2.0 votes
+Tally round 3
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+913.0 : 1 (HAHN, John)
+894.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+631.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+501.0 : 12 (TUAZON-McCHEYNE, Adrian)
+52.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+54.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+3.0 : 53 (CRAWFORD, Terence Michael)
+3.0 : 55 (RUSTON, Anne)
+Excluded candidate CRAWFORD, Terence Michael with 3.0 votes
+Tally round 4
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+913.0 : 1 (HAHN, John)
+895.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+631.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+52.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+3.0 : 55 (RUSTON, Anne)
+Excluded candidate RUSTON, Anne with 3.0 votes
+Tally round 5
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+770.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+631.0 : 7 (GICHUHI, Lucy)
+640.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+24.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+4.0 : 45 (GRIFF, Stirling)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+Excluded candidate GRIFF, Stirling with 4.0 votes
+Tally round 6
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+771.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+631.0 : 7 (GICHUHI, Lucy)
+641.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+416.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+237.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+18.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+4.0 : 49 (HANSON-YOUNG, Sarah)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+Excluded candidate HANSON-YOUNG, Sarah with 4.0 votes
+Tally round 7
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+771.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+89.0 : 6 (BERNARDI, Cory)
+631.0 : 7 (GICHUHI, Lucy)
+641.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+417.0 : 14 (KUERSCHNER, Judith)
+391.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+288.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+20.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+5.0 : 44 (DENNY, Lyndal)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+Excluded candidate DENNY, Lyndal with 5.0 votes
+Tally round 8
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+771.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+90.0 : 6 (BERNARDI, Cory)
+632.0 : 7 (GICHUHI, Lucy)
+641.0 : 8 (KAKOSCHKE-MOORE, Skye)
+75.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+417.0 : 14 (KUERSCHNER, Judith)
+392.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+289.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+11.0 : 46 (NICOLIS, Angelina)
+5.0 : 47 (BOND, Alex)
+7.0 : 48 (FAWCETT, David)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+Excluded candidate BOND, Alex with 5.0 votes
+Tally round 9
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+91.0 : 6 (BERNARDI, Cory)
+632.0 : 7 (GICHUHI, Lucy)
+641.0 : 8 (KAKOSCHKE-MOORE, Skye)
+77.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+417.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+51.0 : 16 (WONG, Penny)
+289.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+43.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+15.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+11.0 : 46 (NICOLIS, Angelina)
+7.0 : 48 (FAWCETT, David)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+5.0 : 52 (GALLACHER, Bronwyn)
+Excluded candidate GALLACHER, Bronwyn with 5.0 votes
+Tally round 10
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+91.0 : 6 (BERNARDI, Cory)
+632.0 : 7 (GICHUHI, Lucy)
+642.0 : 8 (KAKOSCHKE-MOORE, Skye)
+77.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+417.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+289.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+45.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+7.0 : 40 (BILSON-THOMPSON, Sundance)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+7.0 : 43 (SADDLER, Dave)
+11.0 : 46 (NICOLIS, Angelina)
+7.0 : 48 (FAWCETT, David)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+Excluded candidate BILSON-THOMPSON, Sundance with 7.0 votes
+Tally round 11
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+896.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+70.0 : 5 (PRIDDEY, Jaz)
+91.0 : 6 (BERNARDI, Cory)
+633.0 : 7 (GICHUHI, Lucy)
+644.0 : 8 (KAKOSCHKE-MOORE, Skye)
+78.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+518.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+418.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+290.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+45.0 : 22 (GREEN, Nathan)
+39.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+8.0 : 43 (SADDLER, Dave)
+11.0 : 46 (NICOLIS, Angelina)
+7.0 : 48 (FAWCETT, David)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+Excluded candidate FAWCETT, David with 7.0 votes
+Tally round 12
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+997.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+897.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+91.0 : 6 (BERNARDI, Cory)
+633.0 : 7 (GICHUHI, Lucy)
+645.0 : 8 (KAKOSCHKE-MOORE, Skye)
+78.0 : 9 (STORER, Tim)
+75.0 : 10 (CARTER, Nick)
+519.0 : 11 (BOTHE, Darryl)
+502.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+418.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+290.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+45.0 : 22 (GREEN, Nathan)
+41.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+35.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+8.0 : 43 (SADDLER, Dave)
+11.0 : 46 (NICOLIS, Angelina)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+Excluded candidate SADDLER, Dave with 8.0 votes
+Tally round 13
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+998.0 : 0 (BIRMINGHAM, Simon)
+914.0 : 1 (HAHN, John)
+898.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+91.0 : 6 (BERNARDI, Cory)
+634.0 : 7 (GICHUHI, Lucy)
+645.0 : 8 (KAKOSCHKE-MOORE, Skye)
+78.0 : 9 (STORER, Tim)
+76.0 : 10 (CARTER, Nick)
+519.0 : 11 (BOTHE, Darryl)
+503.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+418.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+291.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+45.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+25.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+9.0 : 41 (LIDDLE, Kerrynne)
+11.0 : 42 (COCHRANE, Christopher Mark)
+11.0 : 46 (NICOLIS, Angelina)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+Excluded candidate LIDDLE, Kerrynne with 9.0 votes
+Tally round 14
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+916.0 : 1 (HAHN, John)
+898.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+772.0 : 3 (BUCKLEY, Kym)
+740.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+634.0 : 7 (GICHUHI, Lucy)
+645.0 : 8 (KAKOSCHKE-MOORE, Skye)
+78.0 : 9 (STORER, Tim)
+76.0 : 10 (CARTER, Nick)
+519.0 : 11 (BOTHE, Darryl)
+504.0 : 12 (TUAZON-McCHEYNE, Adrian)
+53.0 : 13 (EDWARDS, Sean)
+418.0 : 14 (KUERSCHNER, Judith)
+393.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+292.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+46.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+11.0 : 42 (COCHRANE, Christopher Mark)
+11.0 : 46 (NICOLIS, Angelina)
+18.0 : 50 (ATTIA, Matt)
+9.0 : 51 (SAUNDERS, Margaret)
+Excluded candidate SAUNDERS, Margaret with 9.0 votes
+Tally round 15
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+916.0 : 1 (HAHN, John)
+899.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+773.0 : 3 (BUCKLEY, Kym)
+741.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+634.0 : 7 (GICHUHI, Lucy)
+646.0 : 8 (KAKOSCHKE-MOORE, Skye)
+79.0 : 9 (STORER, Tim)
+76.0 : 10 (CARTER, Nick)
+520.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+54.0 : 13 (EDWARDS, Sean)
+418.0 : 14 (KUERSCHNER, Judith)
+394.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+292.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+44.0 : 21 (DAY, Bob)
+46.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+147.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+17.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+11.0 : 42 (COCHRANE, Christopher Mark)
+11.0 : 46 (NICOLIS, Angelina)
+18.0 : 50 (ATTIA, Matt)
+Excluded candidate COCHRANE, Christopher Mark with 11.0 votes
+Tally round 16
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+916.0 : 1 (HAHN, John)
+900.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+775.0 : 3 (BUCKLEY, Kym)
+742.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+635.0 : 7 (GICHUHI, Lucy)
+646.0 : 8 (KAKOSCHKE-MOORE, Skye)
+80.0 : 9 (STORER, Tim)
+77.0 : 10 (CARTER, Nick)
+520.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+54.0 : 13 (EDWARDS, Sean)
+419.0 : 14 (KUERSCHNER, Judith)
+394.0 : 15 (McEWEN, Anne)
+52.0 : 16 (WONG, Penny)
+292.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+245.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+45.0 : 21 (DAY, Bob)
+46.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+148.0 : 26 (BURGESS, Steven David)
+121.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+98.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+18.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+11.0 : 46 (NICOLIS, Angelina)
+18.0 : 50 (ATTIA, Matt)
+Excluded candidate NICOLIS, Angelina with 11.0 votes
+Tally round 17
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+917.0 : 1 (HAHN, John)
+900.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+777.0 : 3 (BUCKLEY, Kym)
+742.0 : 4 (FILINGERI, Carlo)
+72.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+635.0 : 7 (GICHUHI, Lucy)
+646.0 : 8 (KAKOSCHKE-MOORE, Skye)
+80.0 : 9 (STORER, Tim)
+77.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+54.0 : 13 (EDWARDS, Sean)
+420.0 : 14 (KUERSCHNER, Judith)
+394.0 : 15 (McEWEN, Anne)
+53.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+45.0 : 21 (DAY, Bob)
+46.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+173.0 : 25 (BAKER, Jeff)
+148.0 : 26 (BURGESS, Steven David)
+122.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+67.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+18.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+12.0 : 39 (BREAGAN, Emma)
+19.0 : 50 (ATTIA, Matt)
+Excluded candidate BREAGAN, Emma with 12.0 votes
+Tally round 18
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+917.0 : 1 (HAHN, John)
+901.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+777.0 : 3 (BUCKLEY, Kym)
+743.0 : 4 (FILINGERI, Carlo)
+73.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+635.0 : 7 (GICHUHI, Lucy)
+647.0 : 8 (KAKOSCHKE-MOORE, Skye)
+80.0 : 9 (STORER, Tim)
+77.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+54.0 : 13 (EDWARDS, Sean)
+421.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+53.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+285.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+45.0 : 21 (DAY, Bob)
+48.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+46.0 : 24 (MARSH, Wanda Lee)
+174.0 : 25 (BAKER, Jeff)
+149.0 : 26 (BURGESS, Steven David)
+122.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+69.0 : 31 (WATERS, Ron)
+13.0 : 32 (KNIGHT, Jessica)
+55.0 : 33 (KOZLOW, Alex)
+36.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+18.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+19.0 : 50 (ATTIA, Matt)
+Excluded candidate KNIGHT, Jessica with 13.0 votes
+Tally round 19
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1000.0 : 0 (BIRMINGHAM, Simon)
+917.0 : 1 (HAHN, John)
+902.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+778.0 : 3 (BUCKLEY, Kym)
+744.0 : 4 (FILINGERI, Carlo)
+73.0 : 5 (PRIDDEY, Jaz)
+92.0 : 6 (BERNARDI, Cory)
+636.0 : 7 (GICHUHI, Lucy)
+647.0 : 8 (KAKOSCHKE-MOORE, Skye)
+80.0 : 9 (STORER, Tim)
+77.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+423.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+54.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+286.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+45.0 : 21 (DAY, Bob)
+48.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+47.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+122.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+69.0 : 31 (WATERS, Ron)
+55.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+18.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+16.0 : 38 (MOATE, Jody)
+19.0 : 50 (ATTIA, Matt)
+Excluded candidate MOATE, Jody with 16.0 votes
+Tally round 20
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1001.0 : 0 (BIRMINGHAM, Simon)
+917.0 : 1 (HAHN, John)
+903.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+778.0 : 3 (BUCKLEY, Kym)
+747.0 : 4 (FILINGERI, Carlo)
+73.0 : 5 (PRIDDEY, Jaz)
+93.0 : 6 (BERNARDI, Cory)
+636.0 : 7 (GICHUHI, Lucy)
+648.0 : 8 (KAKOSCHKE-MOORE, Skye)
+81.0 : 9 (STORER, Tim)
+80.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+505.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+424.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+55.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+287.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+48.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+47.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+26.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+69.0 : 31 (WATERS, Ron)
+55.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+18.0 : 36 (GALLACHER, Alex)
+23.0 : 37 (DE KOK, Harriet)
+19.0 : 50 (ATTIA, Matt)
+Excluded candidate GALLACHER, Alex with 18.0 votes
+Tally round 21
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1002.0 : 0 (BIRMINGHAM, Simon)
+918.0 : 1 (HAHN, John)
+905.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+778.0 : 3 (BUCKLEY, Kym)
+748.0 : 4 (FILINGERI, Carlo)
+76.0 : 5 (PRIDDEY, Jaz)
+94.0 : 6 (BERNARDI, Cory)
+636.0 : 7 (GICHUHI, Lucy)
+648.0 : 8 (KAKOSCHKE-MOORE, Skye)
+81.0 : 9 (STORER, Tim)
+80.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+506.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+424.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+56.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+287.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+49.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+48.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+28.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+55.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+24.0 : 37 (DE KOK, Harriet)
+19.0 : 50 (ATTIA, Matt)
+Excluded candidate ATTIA, Matt with 19.0 votes
+Tally round 22
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1002.0 : 0 (BIRMINGHAM, Simon)
+919.0 : 1 (HAHN, John)
+906.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+779.0 : 3 (BUCKLEY, Kym)
+749.0 : 4 (FILINGERI, Carlo)
+76.0 : 5 (PRIDDEY, Jaz)
+94.0 : 6 (BERNARDI, Cory)
+636.0 : 7 (GICHUHI, Lucy)
+648.0 : 8 (KAKOSCHKE-MOORE, Skye)
+82.0 : 9 (STORER, Tim)
+81.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+506.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+424.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+56.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+287.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+50.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+48.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+28.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+55.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+24.0 : 37 (DE KOK, Harriet)
+12.0 : 58 (STEPHEN, Joseph Kelton)
+Excluded candidate STEPHEN, Joseph Kelton with 12.0 votes
+Tally round 23
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1004.0 : 0 (BIRMINGHAM, Simon)
+919.0 : 1 (HAHN, John)
+909.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+780.0 : 3 (BUCKLEY, Kym)
+750.0 : 4 (FILINGERI, Carlo)
+76.0 : 5 (PRIDDEY, Jaz)
+94.0 : 6 (BERNARDI, Cory)
+636.0 : 7 (GICHUHI, Lucy)
+648.0 : 8 (KAKOSCHKE-MOORE, Skye)
+82.0 : 9 (STORER, Tim)
+81.0 : 10 (CARTER, Nick)
+521.0 : 11 (BOTHE, Darryl)
+508.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+425.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+56.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+289.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+238.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+50.0 : 22 (GREEN, Nathan)
+42.0 : 23 (DAVEY, Malcolm Lloyd)
+48.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+28.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+55.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+21.0 : 35 (RICHARDS, Adam)
+24.0 : 37 (DE KOK, Harriet)
+Excluded candidate RICHARDS, Adam with 21.0 votes
+Tally round 24
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1004.0 : 0 (BIRMINGHAM, Simon)
+919.0 : 1 (HAHN, John)
+911.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+780.0 : 3 (BUCKLEY, Kym)
+751.0 : 4 (FILINGERI, Carlo)
+78.0 : 5 (PRIDDEY, Jaz)
+95.0 : 6 (BERNARDI, Cory)
+637.0 : 7 (GICHUHI, Lucy)
+650.0 : 8 (KAKOSCHKE-MOORE, Skye)
+83.0 : 9 (STORER, Tim)
+82.0 : 10 (CARTER, Nick)
+523.0 : 11 (BOTHE, Darryl)
+508.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+426.0 : 14 (KUERSCHNER, Judith)
+395.0 : 15 (McEWEN, Anne)
+58.0 : 16 (WONG, Penny)
+293.0 : 17 (NOBLE, Tania)
+289.0 : 18 (SIMMS, Robert)
+246.0 : 19 (PARKER, Ryan Douglas)
+240.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+50.0 : 22 (GREEN, Nathan)
+44.0 : 23 (DAVEY, Malcolm Lloyd)
+48.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+150.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+26.0 : 28 (REES, Kristian)
+28.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+56.0 : 33 (KOZLOW, Alex)
+37.0 : 34 (THOMAS, Colin)
+24.0 : 37 (DE KOK, Harriet)
+Excluded candidate DE KOK, Harriet with 24.0 votes
+Tally round 25
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1007.0 : 0 (BIRMINGHAM, Simon)
+919.0 : 1 (HAHN, John)
+911.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+780.0 : 3 (BUCKLEY, Kym)
+752.0 : 4 (FILINGERI, Carlo)
+79.0 : 5 (PRIDDEY, Jaz)
+96.0 : 6 (BERNARDI, Cory)
+638.0 : 7 (GICHUHI, Lucy)
+652.0 : 8 (KAKOSCHKE-MOORE, Skye)
+85.0 : 9 (STORER, Tim)
+82.0 : 10 (CARTER, Nick)
+524.0 : 11 (BOTHE, Darryl)
+510.0 : 12 (TUAZON-McCHEYNE, Adrian)
+55.0 : 13 (EDWARDS, Sean)
+426.0 : 14 (KUERSCHNER, Judith)
+396.0 : 15 (McEWEN, Anne)
+59.0 : 16 (WONG, Penny)
+294.0 : 17 (NOBLE, Tania)
+289.0 : 18 (SIMMS, Robert)
+247.0 : 19 (PARKER, Ryan Douglas)
+240.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+51.0 : 22 (GREEN, Nathan)
+45.0 : 23 (DAVEY, Malcolm Lloyd)
+48.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+151.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+27.0 : 28 (REES, Kristian)
+29.0 : 29 (XENOPHON, Nick)
+99.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+56.0 : 33 (KOZLOW, Alex)
+38.0 : 34 (THOMAS, Colin)
+Excluded candidate REES, Kristian with 27.0 votes
+Tally round 26
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1007.0 : 0 (BIRMINGHAM, Simon)
+921.0 : 1 (HAHN, John)
+912.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+781.0 : 3 (BUCKLEY, Kym)
+754.0 : 4 (FILINGERI, Carlo)
+81.0 : 5 (PRIDDEY, Jaz)
+98.0 : 6 (BERNARDI, Cory)
+639.0 : 7 (GICHUHI, Lucy)
+653.0 : 8 (KAKOSCHKE-MOORE, Skye)
+86.0 : 9 (STORER, Tim)
+82.0 : 10 (CARTER, Nick)
+525.0 : 11 (BOTHE, Darryl)
+511.0 : 12 (TUAZON-McCHEYNE, Adrian)
+56.0 : 13 (EDWARDS, Sean)
+426.0 : 14 (KUERSCHNER, Judith)
+396.0 : 15 (McEWEN, Anne)
+61.0 : 16 (WONG, Penny)
+295.0 : 17 (NOBLE, Tania)
+289.0 : 18 (SIMMS, Robert)
+248.0 : 19 (PARKER, Ryan Douglas)
+241.0 : 20 (HORWOOD, Andrew)
+46.0 : 21 (DAY, Bob)
+51.0 : 22 (GREEN, Nathan)
+47.0 : 23 (DAVEY, Malcolm Lloyd)
+50.0 : 24 (MARSH, Wanda Lee)
+175.0 : 25 (BAKER, Jeff)
+151.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+30.0 : 29 (XENOPHON, Nick)
+100.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+56.0 : 33 (KOZLOW, Alex)
+38.0 : 34 (THOMAS, Colin)
+Excluded candidate XENOPHON, Nick with 30.0 votes
+Tally round 27
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1009.0 : 0 (BIRMINGHAM, Simon)
+921.0 : 1 (HAHN, John)
+915.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+781.0 : 3 (BUCKLEY, Kym)
+755.0 : 4 (FILINGERI, Carlo)
+83.0 : 5 (PRIDDEY, Jaz)
+100.0 : 6 (BERNARDI, Cory)
+639.0 : 7 (GICHUHI, Lucy)
+655.0 : 8 (KAKOSCHKE-MOORE, Skye)
+87.0 : 9 (STORER, Tim)
+83.0 : 10 (CARTER, Nick)
+526.0 : 11 (BOTHE, Darryl)
+511.0 : 12 (TUAZON-McCHEYNE, Adrian)
+57.0 : 13 (EDWARDS, Sean)
+426.0 : 14 (KUERSCHNER, Judith)
+396.0 : 15 (McEWEN, Anne)
+62.0 : 16 (WONG, Penny)
+295.0 : 17 (NOBLE, Tania)
+291.0 : 18 (SIMMS, Robert)
+249.0 : 19 (PARKER, Ryan Douglas)
+241.0 : 20 (HORWOOD, Andrew)
+48.0 : 21 (DAY, Bob)
+52.0 : 22 (GREEN, Nathan)
+47.0 : 23 (DAVEY, Malcolm Lloyd)
+51.0 : 24 (MARSH, Wanda Lee)
+177.0 : 25 (BAKER, Jeff)
+152.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+100.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+58.0 : 33 (KOZLOW, Alex)
+39.0 : 34 (THOMAS, Colin)
+Excluded candidate THOMAS, Colin with 39.0 votes
+Tally round 28
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1015.0 : 0 (BIRMINGHAM, Simon)
+921.0 : 1 (HAHN, John)
+918.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+784.0 : 3 (BUCKLEY, Kym)
+758.0 : 4 (FILINGERI, Carlo)
+84.0 : 5 (PRIDDEY, Jaz)
+102.0 : 6 (BERNARDI, Cory)
+642.0 : 7 (GICHUHI, Lucy)
+655.0 : 8 (KAKOSCHKE-MOORE, Skye)
+87.0 : 9 (STORER, Tim)
+84.0 : 10 (CARTER, Nick)
+526.0 : 11 (BOTHE, Darryl)
+513.0 : 12 (TUAZON-McCHEYNE, Adrian)
+58.0 : 13 (EDWARDS, Sean)
+428.0 : 14 (KUERSCHNER, Judith)
+397.0 : 15 (McEWEN, Anne)
+62.0 : 16 (WONG, Penny)
+296.0 : 17 (NOBLE, Tania)
+291.0 : 18 (SIMMS, Robert)
+249.0 : 19 (PARKER, Ryan Douglas)
+243.0 : 20 (HORWOOD, Andrew)
+50.0 : 21 (DAY, Bob)
+52.0 : 22 (GREEN, Nathan)
+48.0 : 23 (DAVEY, Malcolm Lloyd)
+51.0 : 24 (MARSH, Wanda Lee)
+179.0 : 25 (BAKER, Jeff)
+152.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+102.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+59.0 : 33 (KOZLOW, Alex)
+Excluded candidate DAVEY, Malcolm Lloyd with 48.0 votes
+Tally round 29
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1018.0 : 0 (BIRMINGHAM, Simon)
+924.0 : 1 (HAHN, John)
+918.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+785.0 : 3 (BUCKLEY, Kym)
+759.0 : 4 (FILINGERI, Carlo)
+85.0 : 5 (PRIDDEY, Jaz)
+103.0 : 6 (BERNARDI, Cory)
+643.0 : 7 (GICHUHI, Lucy)
+657.0 : 8 (KAKOSCHKE-MOORE, Skye)
+91.0 : 9 (STORER, Tim)
+87.0 : 10 (CARTER, Nick)
+529.0 : 11 (BOTHE, Darryl)
+516.0 : 12 (TUAZON-McCHEYNE, Adrian)
+60.0 : 13 (EDWARDS, Sean)
+429.0 : 14 (KUERSCHNER, Judith)
+398.0 : 15 (McEWEN, Anne)
+65.0 : 16 (WONG, Penny)
+299.0 : 17 (NOBLE, Tania)
+291.0 : 18 (SIMMS, Robert)
+251.0 : 19 (PARKER, Ryan Douglas)
+246.0 : 20 (HORWOOD, Andrew)
+50.0 : 21 (DAY, Bob)
+53.0 : 22 (GREEN, Nathan)
+52.0 : 24 (MARSH, Wanda Lee)
+180.0 : 25 (BAKER, Jeff)
+153.0 : 26 (BURGESS, Steven David)
+123.0 : 27 (HARKER-SMITH, Angus)
+103.0 : 30 (SADRI, Roostam)
+71.0 : 31 (WATERS, Ron)
+61.0 : 33 (KOZLOW, Alex)
+Excluded candidate DAY, Bob with 50.0 votes
+Tally round 30
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1020.0 : 0 (BIRMINGHAM, Simon)
+926.0 : 1 (HAHN, John)
+918.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+790.0 : 3 (BUCKLEY, Kym)
+763.0 : 4 (FILINGERI, Carlo)
+85.0 : 5 (PRIDDEY, Jaz)
+105.0 : 6 (BERNARDI, Cory)
+643.0 : 7 (GICHUHI, Lucy)
+657.0 : 8 (KAKOSCHKE-MOORE, Skye)
+92.0 : 9 (STORER, Tim)
+89.0 : 10 (CARTER, Nick)
+529.0 : 11 (BOTHE, Darryl)
+518.0 : 12 (TUAZON-McCHEYNE, Adrian)
+61.0 : 13 (EDWARDS, Sean)
+432.0 : 14 (KUERSCHNER, Judith)
+399.0 : 15 (McEWEN, Anne)
+67.0 : 16 (WONG, Penny)
+299.0 : 17 (NOBLE, Tania)
+293.0 : 18 (SIMMS, Robert)
+254.0 : 19 (PARKER, Ryan Douglas)
+249.0 : 20 (HORWOOD, Andrew)
+57.0 : 22 (GREEN, Nathan)
+54.0 : 24 (MARSH, Wanda Lee)
+181.0 : 25 (BAKER, Jeff)
+153.0 : 26 (BURGESS, Steven David)
+124.0 : 27 (HARKER-SMITH, Angus)
+103.0 : 30 (SADRI, Roostam)
+73.0 : 31 (WATERS, Ron)
+66.0 : 33 (KOZLOW, Alex)
+Excluded candidate MARSH, Wanda Lee with 54.0 votes
+Tally round 31
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1022.0 : 0 (BIRMINGHAM, Simon)
+929.0 : 1 (HAHN, John)
+923.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+792.0 : 3 (BUCKLEY, Kym)
+765.0 : 4 (FILINGERI, Carlo)
+87.0 : 5 (PRIDDEY, Jaz)
+113.0 : 6 (BERNARDI, Cory)
+646.0 : 7 (GICHUHI, Lucy)
+661.0 : 8 (KAKOSCHKE-MOORE, Skye)
+93.0 : 9 (STORER, Tim)
+92.0 : 10 (CARTER, Nick)
+530.0 : 11 (BOTHE, Darryl)
+521.0 : 12 (TUAZON-McCHEYNE, Adrian)
+61.0 : 13 (EDWARDS, Sean)
+437.0 : 14 (KUERSCHNER, Judith)
+401.0 : 15 (McEWEN, Anne)
+68.0 : 16 (WONG, Penny)
+301.0 : 17 (NOBLE, Tania)
+295.0 : 18 (SIMMS, Robert)
+254.0 : 19 (PARKER, Ryan Douglas)
+251.0 : 20 (HORWOOD, Andrew)
+57.0 : 22 (GREEN, Nathan)
+181.0 : 25 (BAKER, Jeff)
+153.0 : 26 (BURGESS, Steven David)
+125.0 : 27 (HARKER-SMITH, Angus)
+103.0 : 30 (SADRI, Roostam)
+73.0 : 31 (WATERS, Ron)
+66.0 : 33 (KOZLOW, Alex)
+Excluded candidate GREEN, Nathan with 57.0 votes
+Tally round 32
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1022.0 : 0 (BIRMINGHAM, Simon)
+932.0 : 1 (HAHN, John)
+924.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+795.0 : 3 (BUCKLEY, Kym)
+767.0 : 4 (FILINGERI, Carlo)
+92.0 : 5 (PRIDDEY, Jaz)
+117.0 : 6 (BERNARDI, Cory)
+650.0 : 7 (GICHUHI, Lucy)
+662.0 : 8 (KAKOSCHKE-MOORE, Skye)
+94.0 : 9 (STORER, Tim)
+99.0 : 10 (CARTER, Nick)
+532.0 : 11 (BOTHE, Darryl)
+526.0 : 12 (TUAZON-McCHEYNE, Adrian)
+64.0 : 13 (EDWARDS, Sean)
+438.0 : 14 (KUERSCHNER, Judith)
+403.0 : 15 (McEWEN, Anne)
+69.0 : 16 (WONG, Penny)
+301.0 : 17 (NOBLE, Tania)
+295.0 : 18 (SIMMS, Robert)
+255.0 : 19 (PARKER, Ryan Douglas)
+254.0 : 20 (HORWOOD, Andrew)
+182.0 : 25 (BAKER, Jeff)
+153.0 : 26 (BURGESS, Steven David)
+128.0 : 27 (HARKER-SMITH, Angus)
+103.0 : 30 (SADRI, Roostam)
+75.0 : 31 (WATERS, Ron)
+68.0 : 33 (KOZLOW, Alex)
+Excluded candidate EDWARDS, Sean with 64.0 votes
+Tally round 33
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1028.0 : 0 (BIRMINGHAM, Simon)
+934.0 : 1 (HAHN, John)
+927.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+800.0 : 3 (BUCKLEY, Kym)
+769.0 : 4 (FILINGERI, Carlo)
+96.0 : 5 (PRIDDEY, Jaz)
+122.0 : 6 (BERNARDI, Cory)
+651.0 : 7 (GICHUHI, Lucy)
+665.0 : 8 (KAKOSCHKE-MOORE, Skye)
+99.0 : 9 (STORER, Tim)
+99.0 : 10 (CARTER, Nick)
+534.0 : 11 (BOTHE, Darryl)
+529.0 : 12 (TUAZON-McCHEYNE, Adrian)
+439.0 : 14 (KUERSCHNER, Judith)
+404.0 : 15 (McEWEN, Anne)
+71.0 : 16 (WONG, Penny)
+303.0 : 17 (NOBLE, Tania)
+299.0 : 18 (SIMMS, Robert)
+258.0 : 19 (PARKER, Ryan Douglas)
+254.0 : 20 (HORWOOD, Andrew)
+182.0 : 25 (BAKER, Jeff)
+154.0 : 26 (BURGESS, Steven David)
+130.0 : 27 (HARKER-SMITH, Angus)
+106.0 : 30 (SADRI, Roostam)
+76.0 : 31 (WATERS, Ron)
+71.0 : 33 (KOZLOW, Alex)
+Excluded candidate WONG, Penny with 71.0 votes
+Tally round 34
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1033.0 : 0 (BIRMINGHAM, Simon)
+940.0 : 1 (HAHN, John)
+932.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+801.0 : 3 (BUCKLEY, Kym)
+773.0 : 4 (FILINGERI, Carlo)
+105.0 : 5 (PRIDDEY, Jaz)
+124.0 : 6 (BERNARDI, Cory)
+653.0 : 7 (GICHUHI, Lucy)
+667.0 : 8 (KAKOSCHKE-MOORE, Skye)
+103.0 : 9 (STORER, Tim)
+101.0 : 10 (CARTER, Nick)
+538.0 : 11 (BOTHE, Darryl)
+533.0 : 12 (TUAZON-McCHEYNE, Adrian)
+440.0 : 14 (KUERSCHNER, Judith)
+408.0 : 15 (McEWEN, Anne)
+304.0 : 17 (NOBLE, Tania)
+299.0 : 18 (SIMMS, Robert)
+262.0 : 19 (PARKER, Ryan Douglas)
+255.0 : 20 (HORWOOD, Andrew)
+183.0 : 25 (BAKER, Jeff)
+154.0 : 26 (BURGESS, Steven David)
+133.0 : 27 (HARKER-SMITH, Angus)
+110.0 : 30 (SADRI, Roostam)
+78.0 : 31 (WATERS, Ron)
+71.0 : 33 (KOZLOW, Alex)
+Excluded candidate KOZLOW, Alex with 71.0 votes
+Tally round 35
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1040.0 : 0 (BIRMINGHAM, Simon)
+947.0 : 1 (HAHN, John)
+937.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+807.0 : 3 (BUCKLEY, Kym)
+778.0 : 4 (FILINGERI, Carlo)
+107.0 : 5 (PRIDDEY, Jaz)
+125.0 : 6 (BERNARDI, Cory)
+656.0 : 7 (GICHUHI, Lucy)
+673.0 : 8 (KAKOSCHKE-MOORE, Skye)
+106.0 : 9 (STORER, Tim)
+101.0 : 10 (CARTER, Nick)
+545.0 : 11 (BOTHE, Darryl)
+537.0 : 12 (TUAZON-McCHEYNE, Adrian)
+443.0 : 14 (KUERSCHNER, Judith)
+411.0 : 15 (McEWEN, Anne)
+306.0 : 17 (NOBLE, Tania)
+301.0 : 18 (SIMMS, Robert)
+263.0 : 19 (PARKER, Ryan Douglas)
+255.0 : 20 (HORWOOD, Andrew)
+184.0 : 25 (BAKER, Jeff)
+155.0 : 26 (BURGESS, Steven David)
+134.0 : 27 (HARKER-SMITH, Angus)
+111.0 : 30 (SADRI, Roostam)
+78.0 : 31 (WATERS, Ron)
+Excluded candidate WATERS, Ron with 78.0 votes
+Tally round 36
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1047.0 : 0 (BIRMINGHAM, Simon)
+954.0 : 1 (HAHN, John)
+945.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+813.0 : 3 (BUCKLEY, Kym)
+784.0 : 4 (FILINGERI, Carlo)
+110.0 : 5 (PRIDDEY, Jaz)
+127.0 : 6 (BERNARDI, Cory)
+663.0 : 7 (GICHUHI, Lucy)
+676.0 : 8 (KAKOSCHKE-MOORE, Skye)
+109.0 : 9 (STORER, Tim)
+101.0 : 10 (CARTER, Nick)
+549.0 : 11 (BOTHE, Darryl)
+539.0 : 12 (TUAZON-McCHEYNE, Adrian)
+446.0 : 14 (KUERSCHNER, Judith)
+414.0 : 15 (McEWEN, Anne)
+308.0 : 17 (NOBLE, Tania)
+303.0 : 18 (SIMMS, Robert)
+266.0 : 19 (PARKER, Ryan Douglas)
+257.0 : 20 (HORWOOD, Andrew)
+185.0 : 25 (BAKER, Jeff)
+155.0 : 26 (BURGESS, Steven David)
+136.0 : 27 (HARKER-SMITH, Angus)
+113.0 : 30 (SADRI, Roostam)
+Excluded candidate CARTER, Nick with 101.0 votes
+Tally round 37
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1051.0 : 0 (BIRMINGHAM, Simon)
+961.0 : 1 (HAHN, John)
+955.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+819.0 : 3 (BUCKLEY, Kym)
+791.0 : 4 (FILINGERI, Carlo)
+115.0 : 5 (PRIDDEY, Jaz)
+131.0 : 6 (BERNARDI, Cory)
+668.0 : 7 (GICHUHI, Lucy)
+683.0 : 8 (KAKOSCHKE-MOORE, Skye)
+111.0 : 9 (STORER, Tim)
+553.0 : 11 (BOTHE, Darryl)
+546.0 : 12 (TUAZON-McCHEYNE, Adrian)
+450.0 : 14 (KUERSCHNER, Judith)
+418.0 : 15 (McEWEN, Anne)
+311.0 : 17 (NOBLE, Tania)
+307.0 : 18 (SIMMS, Robert)
+272.0 : 19 (PARKER, Ryan Douglas)
+260.0 : 20 (HORWOOD, Andrew)
+187.0 : 25 (BAKER, Jeff)
+157.0 : 26 (BURGESS, Steven David)
+138.0 : 27 (HARKER-SMITH, Angus)
+116.0 : 30 (SADRI, Roostam)
+Excluded candidate STORER, Tim with 111.0 votes
+Tally round 38
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1061.0 : 0 (BIRMINGHAM, Simon)
+972.0 : 1 (HAHN, John)
+966.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+822.0 : 3 (BUCKLEY, Kym)
+797.0 : 4 (FILINGERI, Carlo)
+121.0 : 5 (PRIDDEY, Jaz)
+135.0 : 6 (BERNARDI, Cory)
+675.0 : 7 (GICHUHI, Lucy)
+688.0 : 8 (KAKOSCHKE-MOORE, Skye)
+560.0 : 11 (BOTHE, Darryl)
+554.0 : 12 (TUAZON-McCHEYNE, Adrian)
+453.0 : 14 (KUERSCHNER, Judith)
+424.0 : 15 (McEWEN, Anne)
+314.0 : 17 (NOBLE, Tania)
+310.0 : 18 (SIMMS, Robert)
+276.0 : 19 (PARKER, Ryan Douglas)
+263.0 : 20 (HORWOOD, Andrew)
+190.0 : 25 (BAKER, Jeff)
+160.0 : 26 (BURGESS, Steven David)
+139.0 : 27 (HARKER-SMITH, Angus)
+120.0 : 30 (SADRI, Roostam)
+Excluded candidate SADRI, Roostam with 120.0 votes
+Tally round 39
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1064.0 : 0 (BIRMINGHAM, Simon)
+974.0 : 1 (HAHN, John)
+971.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+823.0 : 3 (BUCKLEY, Kym)
+799.0 : 4 (FILINGERI, Carlo)
+125.0 : 5 (PRIDDEY, Jaz)
+135.0 : 6 (BERNARDI, Cory)
+675.0 : 7 (GICHUHI, Lucy)
+690.0 : 8 (KAKOSCHKE-MOORE, Skye)
+561.0 : 11 (BOTHE, Darryl)
+557.0 : 12 (TUAZON-McCHEYNE, Adrian)
+454.0 : 14 (KUERSCHNER, Judith)
+429.0 : 15 (McEWEN, Anne)
+318.0 : 17 (NOBLE, Tania)
+315.0 : 18 (SIMMS, Robert)
+276.0 : 19 (PARKER, Ryan Douglas)
+264.0 : 20 (HORWOOD, Andrew)
+191.0 : 25 (BAKER, Jeff)
+162.0 : 26 (BURGESS, Steven David)
+139.0 : 27 (HARKER-SMITH, Angus)
+78.0 : 63 (NOACK, Michael)
+Excluded candidate NOACK, Michael with 78.0 votes
+Tally round 40
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1074.0 : 0 (BIRMINGHAM, Simon)
+986.0 : 1 (HAHN, John)
+976.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+828.0 : 3 (BUCKLEY, Kym)
+808.0 : 4 (FILINGERI, Carlo)
+125.0 : 5 (PRIDDEY, Jaz)
+135.0 : 6 (BERNARDI, Cory)
+680.0 : 7 (GICHUHI, Lucy)
+694.0 : 8 (KAKOSCHKE-MOORE, Skye)
+563.0 : 11 (BOTHE, Darryl)
+557.0 : 12 (TUAZON-McCHEYNE, Adrian)
+458.0 : 14 (KUERSCHNER, Judith)
+431.0 : 15 (McEWEN, Anne)
+321.0 : 17 (NOBLE, Tania)
+319.0 : 18 (SIMMS, Robert)
+280.0 : 19 (PARKER, Ryan Douglas)
+268.0 : 20 (HORWOOD, Andrew)
+194.0 : 25 (BAKER, Jeff)
+163.0 : 26 (BURGESS, Steven David)
+140.0 : 27 (HARKER-SMITH, Angus)
+Excluded candidate PRIDDEY, Jaz with 125.0 votes
+Tally round 41
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1079.0 : 0 (BIRMINGHAM, Simon)
+993.0 : 1 (HAHN, John)
+986.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+838.0 : 3 (BUCKLEY, Kym)
+817.0 : 4 (FILINGERI, Carlo)
+144.0 : 6 (BERNARDI, Cory)
+691.0 : 7 (GICHUHI, Lucy)
+698.0 : 8 (KAKOSCHKE-MOORE, Skye)
+572.0 : 11 (BOTHE, Darryl)
+565.0 : 12 (TUAZON-McCHEYNE, Adrian)
+464.0 : 14 (KUERSCHNER, Judith)
+437.0 : 15 (McEWEN, Anne)
+329.0 : 17 (NOBLE, Tania)
+325.0 : 18 (SIMMS, Robert)
+286.0 : 19 (PARKER, Ryan Douglas)
+272.0 : 20 (HORWOOD, Andrew)
+195.0 : 25 (BAKER, Jeff)
+165.0 : 26 (BURGESS, Steven David)
+144.0 : 27 (HARKER-SMITH, Angus)
+Excluded candidate BERNARDI, Cory with 144.0 votes
+Tally round 42
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1093.0 : 0 (BIRMINGHAM, Simon)
+1002.0 : 1 (HAHN, John)
+997.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+847.0 : 3 (BUCKLEY, Kym)
+830.0 : 4 (FILINGERI, Carlo)
+701.0 : 7 (GICHUHI, Lucy)
+708.0 : 8 (KAKOSCHKE-MOORE, Skye)
+582.0 : 11 (BOTHE, Darryl)
+570.0 : 12 (TUAZON-McCHEYNE, Adrian)
+472.0 : 14 (KUERSCHNER, Judith)
+446.0 : 15 (McEWEN, Anne)
+333.0 : 17 (NOBLE, Tania)
+331.0 : 18 (SIMMS, Robert)
+298.0 : 19 (PARKER, Ryan Douglas)
+279.0 : 20 (HORWOOD, Andrew)
+198.0 : 25 (BAKER, Jeff)
+167.0 : 26 (BURGESS, Steven David)
+146.0 : 27 (HARKER-SMITH, Angus)
+Excluded candidate HARKER-SMITH, Angus with 146.0 votes
+Tally round 43
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1109.0 : 0 (BIRMINGHAM, Simon)
+1011.0 : 1 (HAHN, John)
+1006.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+859.0 : 3 (BUCKLEY, Kym)
+847.0 : 4 (FILINGERI, Carlo)
+709.0 : 7 (GICHUHI, Lucy)
+720.0 : 8 (KAKOSCHKE-MOORE, Skye)
+588.0 : 11 (BOTHE, Darryl)
+580.0 : 12 (TUAZON-McCHEYNE, Adrian)
+478.0 : 14 (KUERSCHNER, Judith)
+456.0 : 15 (McEWEN, Anne)
+340.0 : 17 (NOBLE, Tania)
+340.0 : 18 (SIMMS, Robert)
+302.0 : 19 (PARKER, Ryan Douglas)
+284.0 : 20 (HORWOOD, Andrew)
+202.0 : 25 (BAKER, Jeff)
+169.0 : 26 (BURGESS, Steven David)
+Excluded candidate BURGESS, Steven David with 169.0 votes
+Tally round 44
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1123.0 : 0 (BIRMINGHAM, Simon)
+1037.0 : 1 (HAHN, John)
+1019.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+872.0 : 3 (BUCKLEY, Kym)
+863.0 : 4 (FILINGERI, Carlo)
+723.0 : 7 (GICHUHI, Lucy)
+734.0 : 8 (KAKOSCHKE-MOORE, Skye)
+598.0 : 11 (BOTHE, Darryl)
+589.0 : 12 (TUAZON-McCHEYNE, Adrian)
+484.0 : 14 (KUERSCHNER, Judith)
+463.0 : 15 (McEWEN, Anne)
+349.0 : 17 (NOBLE, Tania)
+347.0 : 18 (SIMMS, Robert)
+308.0 : 19 (PARKER, Ryan Douglas)
+287.0 : 20 (HORWOOD, Andrew)
+204.0 : 25 (BAKER, Jeff)
+Excluded candidate BAKER, Jeff with 204.0 votes
+Tally round 45
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1128.0 : 0 (BIRMINGHAM, Simon)
+1043.0 : 1 (HAHN, John)
+1022.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+875.0 : 3 (BUCKLEY, Kym)
+872.0 : 4 (FILINGERI, Carlo)
+729.0 : 7 (GICHUHI, Lucy)
+738.0 : 8 (KAKOSCHKE-MOORE, Skye)
+599.0 : 11 (BOTHE, Darryl)
+590.0 : 12 (TUAZON-McCHEYNE, Adrian)
+486.0 : 14 (KUERSCHNER, Judith)
+465.0 : 15 (McEWEN, Anne)
+354.0 : 17 (NOBLE, Tania)
+350.0 : 18 (SIMMS, Robert)
+313.0 : 19 (PARKER, Ryan Douglas)
+291.0 : 20 (HORWOOD, Andrew)
+145.0 : 59 (BIRD, Adam Anthony)
+Excluded candidate BIRD, Adam Anthony with 145.0 votes
+Tally round 46
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1147.0 : 0 (BIRMINGHAM, Simon)
+1056.0 : 1 (HAHN, John)
+1036.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+888.0 : 3 (BUCKLEY, Kym)
+884.0 : 4 (FILINGERI, Carlo)
+743.0 : 7 (GICHUHI, Lucy)
+745.0 : 8 (KAKOSCHKE-MOORE, Skye)
+613.0 : 11 (BOTHE, Darryl)
+602.0 : 12 (TUAZON-McCHEYNE, Adrian)
+494.0 : 14 (KUERSCHNER, Judith)
+471.0 : 15 (McEWEN, Anne)
+359.0 : 17 (NOBLE, Tania)
+352.0 : 18 (SIMMS, Robert)
+315.0 : 19 (PARKER, Ryan Douglas)
+295.0 : 20 (HORWOOD, Andrew)
+Excluded candidate HORWOOD, Andrew with 295.0 votes
+Tally round 47
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1171.0 : 0 (BIRMINGHAM, Simon)
+1093.0 : 1 (HAHN, John)
+1073.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+914.0 : 3 (BUCKLEY, Kym)
+912.0 : 4 (FILINGERI, Carlo)
+767.0 : 7 (GICHUHI, Lucy)
+764.0 : 8 (KAKOSCHKE-MOORE, Skye)
+630.0 : 11 (BOTHE, Darryl)
+617.0 : 12 (TUAZON-McCHEYNE, Adrian)
+507.0 : 14 (KUERSCHNER, Judith)
+486.0 : 15 (McEWEN, Anne)
+373.0 : 17 (NOBLE, Tania)
+363.0 : 18 (SIMMS, Robert)
+330.0 : 19 (PARKER, Ryan Douglas)
+Excluded candidate PARKER, Ryan Douglas with 330.0 votes
+Tally round 48
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1202.0 : 0 (BIRMINGHAM, Simon)
+1134.0 : 1 (HAHN, John)
+1104.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+956.0 : 3 (BUCKLEY, Kym)
+939.0 : 4 (FILINGERI, Carlo)
+799.0 : 7 (GICHUHI, Lucy)
+784.0 : 8 (KAKOSCHKE-MOORE, Skye)
+651.0 : 11 (BOTHE, Darryl)
+645.0 : 12 (TUAZON-McCHEYNE, Adrian)
+525.0 : 14 (KUERSCHNER, Judith)
+507.0 : 15 (McEWEN, Anne)
+379.0 : 17 (NOBLE, Tania)
+375.0 : 18 (SIMMS, Robert)
+Excluded candidate SIMMS, Robert with 375.0 votes
+Tally round 49
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1245.0 : 0 (BIRMINGHAM, Simon)
+1181.0 : 1 (HAHN, John)
+1146.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+995.0 : 3 (BUCKLEY, Kym)
+974.0 : 4 (FILINGERI, Carlo)
+834.0 : 7 (GICHUHI, Lucy)
+818.0 : 8 (KAKOSCHKE-MOORE, Skye)
+683.0 : 11 (BOTHE, Darryl)
+661.0 : 12 (TUAZON-McCHEYNE, Adrian)
+543.0 : 14 (KUERSCHNER, Judith)
+526.0 : 15 (McEWEN, Anne)
+394.0 : 17 (NOBLE, Tania)
+Excluded candidate NOBLE, Tania with 394.0 votes
+Tally round 50
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1315.0 : 0 (BIRMINGHAM, Simon)
+1218.0 : 1 (HAHN, John)
+1190.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1035.0 : 3 (BUCKLEY, Kym)
+1012.0 : 4 (FILINGERI, Carlo)
+869.0 : 7 (GICHUHI, Lucy)
+857.0 : 8 (KAKOSCHKE-MOORE, Skye)
+714.0 : 11 (BOTHE, Darryl)
+680.0 : 12 (TUAZON-McCHEYNE, Adrian)
+564.0 : 14 (KUERSCHNER, Judith)
+546.0 : 15 (McEWEN, Anne)
+Excluded candidate McEWEN, Anne with 546.0 votes
+Tally round 51
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1334.0 : 0 (BIRMINGHAM, Simon)
+1241.0 : 1 (HAHN, John)
+1207.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1049.0 : 3 (BUCKLEY, Kym)
+1027.0 : 4 (FILINGERI, Carlo)
+879.0 : 7 (GICHUHI, Lucy)
+872.0 : 8 (KAKOSCHKE-MOORE, Skye)
+725.0 : 11 (BOTHE, Darryl)
+689.0 : 12 (TUAZON-McCHEYNE, Adrian)
+580.0 : 14 (KUERSCHNER, Judith)
+397.0 : 61 (ALLISON, Michael)
+Excluded candidate ALLISON, Michael with 397.0 votes
+Tally round 52
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1383.0 : 0 (BIRMINGHAM, Simon)
+1290.0 : 1 (HAHN, John)
+1263.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1089.0 : 3 (BUCKLEY, Kym)
+1072.0 : 4 (FILINGERI, Carlo)
+919.0 : 7 (GICHUHI, Lucy)
+907.0 : 8 (KAKOSCHKE-MOORE, Skye)
+755.0 : 11 (BOTHE, Darryl)
+724.0 : 12 (TUAZON-McCHEYNE, Adrian)
+598.0 : 14 (KUERSCHNER, Judith)
+Excluded candidate KUERSCHNER, Judith with 598.0 votes
+Tally round 53
+elected 0 of 6
+Votes: Uid (Candidate Name)
+============================
+1472.0 : 0 (BIRMINGHAM, Simon)
+1371.0 : 1 (HAHN, John)
+1351.0 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1153.0 : 3 (BUCKLEY, Kym)
+1151.0 : 4 (FILINGERI, Carlo)
+972.0 : 7 (GICHUHI, Lucy)
+950.0 : 8 (KAKOSCHKE-MOORE, Skye)
+800.0 : 11 (BOTHE, Darryl)
+780.0 : 12 (TUAZON-McCHEYNE, Adrian)
+Elected candidate BIRMINGHAM, Simon with 1472.0 votes
+Tally round 54
+elected 1 of 6
+Votes: Uid (Candidate Name)
+============================
+1378.3906250000023 : 1 (HAHN, John)
+1357.7771739130455 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1159.1637228260888 : 3 (BUCKLEY, Kym)
+1155.5862771739144 : 4 (FILINGERI, Carlo)
+977.4334239130451 : 7 (GICHUHI, Lucy)
+955.1997282608712 : 8 (KAKOSCHKE-MOORE, Skye)
+803.7683423913054 : 11 (BOTHE, Darryl)
+783.6222826086967 : 12 (TUAZON-McCHEYNE, Adrian)
+0.029211956521739132 : 62 (SANDERS, Charles Andrew Laurence)
+Excluded candidate SANDERS, Charles Andrew Laurence with 0.029211956521739132 votes
+Tally round 55
+elected 1 of 6
+Votes: Uid (Candidate Name)
+============================
+1378.3906250000023 : 1 (HAHN, John)
+1357.7771739130455 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1159.1637228260888 : 3 (BUCKLEY, Kym)
+1155.5862771739144 : 4 (FILINGERI, Carlo)
+977.4334239130451 : 7 (GICHUHI, Lucy)
+955.1997282608712 : 8 (KAKOSCHKE-MOORE, Skye)
+803.7975543478271 : 11 (BOTHE, Darryl)
+783.6222826086967 : 12 (TUAZON-McCHEYNE, Adrian)
+Excluded candidate TUAZON-McCHEYNE, Adrian with 783.6222826086967 votes
+Tally round 56
+elected 1 of 6
+Votes: Uid (Candidate Name)
+============================
+1516.8288043478285 : 1 (HAHN, John)
+1475.419836956524 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1273.7479619565238 : 3 (BUCKLEY, Kym)
+1279.1413043478278 : 4 (FILINGERI, Carlo)
+1081.900815217393 : 7 (GICHUHI, Lucy)
+1052.8716032608713 : 8 (KAKOSCHKE-MOORE, Skye)
+890.0604619565229 : 11 (BOTHE, Darryl)
+1.0 : 60 (ALI, Mohammad)
+Elected candidate HAHN, John with 1516.8288043478285 votes
+Tally round 57
+elected 2 of 6
+Votes: Uid (Candidate Name)
+============================
+1494.033341572911 : 2 (PAZESKI-NIKOLOSKI, Sasha)
+1290.2308990407662 : 3 (BUCKLEY, Kym)
+1294.4577259110326 : 4 (FILINGERI, Carlo)
+1094.589616807926 : 7 (GICHUHI, Lucy)
+1066.7763659974612 : 8 (KAKOSCHKE-MOORE, Skye)
+900.6495356091907 : 11 (BOTHE, Darryl)
+1.0 : 60 (ALI, Mohammad)
+Elected candidate PAZESKI-NIKOLOSKI, Sasha with 1494.033341572911 votes
+Tally round 58
+elected 3 of 6
+Votes: Uid (Candidate Name)
+============================
+1306.2805740836534 : 3 (BUCKLEY, Kym)
+1308.0962194903561 : 4 (FILINGERI, Carlo)
+1107.8837068924456 : 7 (GICHUHI, Lucy)
+1078.0953775025748 : 8 (KAKOSCHKE-MOORE, Skye)
+910.6595297555201 : 11 (BOTHE, Darryl)
+1.0 : 60 (ALI, Mohammad)
+Excluded candidate ALI, Mohammad with 1.0 votes
+Tally round 59
+elected 3 of 6
+Votes: Uid (Candidate Name)
+============================
+1306.2805740836534 : 3 (BUCKLEY, Kym)
+1308.0962194903561 : 4 (FILINGERI, Carlo)
+1107.8837068924456 : 7 (GICHUHI, Lucy)
+1079.0953775025748 : 8 (KAKOSCHKE-MOORE, Skye)
+910.6595297555201 : 11 (BOTHE, Darryl)
+Excluded candidate BOTHE, Darryl with 910.6595297555201 votes
+Tally round 60
+elected 3 of 6
+Votes: Uid (Candidate Name)
+============================
+1576.3594281553617 : 3 (BUCKLEY, Kym)
+1559.0167739766725 : 4 (FILINGERI, Carlo)
+1304.5443666472504 : 7 (GICHUHI, Lucy)
+1260.4557888093607 : 8 (KAKOSCHKE-MOORE, Skye)
+Elected candidate BUCKLEY, Kym with 1576.3594281553617 votes
+Tally round 61
+elected 4 of 6
+Votes: Uid (Candidate Name)
+============================
+1610.7019585992773 : 4 (FILINGERI, Carlo)
+1351.9508942704229 : 7 (GICHUHI, Lucy)
+1303.6467632674662 : 8 (KAKOSCHKE-MOORE, Skye)
+Elected candidate FILINGERI, Carlo with 1610.7019585992773 votes
+Tally round 62
+elected 5 of 6
+Votes: Uid (Candidate Name)
+============================
+1442.1144833892947 : 7 (GICHUHI, Lucy)
+1378.3135204552443 : 8 (KAKOSCHKE-MOORE, Skye)
+Elected candidate GICHUHI, Lucy with 1442.1144833892947 votes
+============================================
+Tally complete
+Elected candidate BIRMINGHAM, Simon
+Elected candidate HAHN, John
+Elected candidate PAZESKI-NIKOLOSKI, Sasha
+Elected candidate BUCKLEY, Kym
+Elected candidate FILINGERI, Carlo
+Elected candidate GICHUHI, Lucy
+Tally completed

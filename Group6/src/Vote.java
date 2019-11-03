@@ -20,18 +20,20 @@ import javax.crypto.NoSuchPaddingException;
 // class representing a single vote in the Australian Senate elections
 @SuppressWarnings("unused")
 public class Vote {
+	// these fields describe the vote cast
 	public enum voteTypes {ABOVE_LINE, BELOW_LINE, NOT_DEFINED};
 	public voteTypes voteType;
 	public int[] preferencesAbove;
 	public int[] preferencesBelow;
-	public boolean isExhausted;
 
+	// we need a refernce to the ballot paper to make sense of the vote
 	public BallotPaper ballotPaper;
 	
 	// these fields are used when tallying votes
 	int[] convertedPreferenceBelowLine;
 	int currentPreference = 0;
 	double transferValue = 1.0;
+	public boolean isExhausted;
 	
 	// constructors
 	public Vote(BallotPaper ballotPaper) {
@@ -181,11 +183,6 @@ public class Vote {
 	}
 	
 	
-	public byte[] encrypt(Key publicKey) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
-		return CryptoEngine.encryptRSA(getBytes(), publicKey);
-	}
-	
-
 	// methods used when tallying vote
 	
 	// convert above line votes to below line votes
@@ -262,6 +259,7 @@ public class Vote {
 		isExhausted = true;
 	}
 	
+	// a unit test of the encryption
 	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException, InvalidKeySpecException {
 		Key privateKey = CryptoEngine.getVotePrivateKey();
 		Key publicKey = CryptoEngine.getVotePublicKey();

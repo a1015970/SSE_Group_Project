@@ -4,20 +4,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+// a class representing a ballot paper, including a constructor that reads a CSV file of candidates
 public class BallotPaper {
+	// a ballot paper has a list of parties, a list of candidates who do not belong to a party, and a list of excluded candidates
 	public final List<Party> partyList;
 	public final List<Candidate> ungroupedCandidates;
 	public  List<Integer> excludedCandidates;
 
-	// interim constructor
-	// final version -read a file (CSV or JSON?) and create candidates and parties
-	public BallotPaper(List<Party> partyList, List<Candidate> ungroupedCandidates) {
-		this.partyList = partyList;
-		this.ungroupedCandidates = ungroupedCandidates;
-		this.excludedCandidates = new ArrayList<Integer>();
-	}
-	
-	
 	// construct ballot paper by reading CSV
 	public BallotPaper(String filename, String state) {
 		BufferedReader reader;
@@ -65,6 +58,14 @@ public class BallotPaper {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	
+	// interim constructor
+	public BallotPaper(List<Party> partyList, List<Candidate> ungroupedCandidates) {
+		this.partyList = partyList;
+		this.ungroupedCandidates = ungroupedCandidates;
+		this.excludedCandidates = new ArrayList<Integer>();
 	}
 	
 	
@@ -125,6 +126,8 @@ public class BallotPaper {
 		return str;
 	}
 	
+	
+	// a simple unit test
 	public static void main(String[] args) throws CandidateNotFoundException {
 		BallotPaper test = new BallotPaper("\\Users\\Chris\\git\\SSE_Group_Project\\SenateCandidates2016RandomOrder.csv", "SA");
 		System.out.println(test);

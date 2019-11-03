@@ -1,4 +1,4 @@
-
+// a representation of a Candidate for election
 public class Candidate {
 	public final String candidateName;
 	public final String party;

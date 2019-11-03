@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// a representation of a Party in the election
+// it has a list of candidates who make up the party
 public class Party {
 	public final String partyName;
 	public final Integer uid;
