@@ -259,26 +259,4 @@ public class Vote {
 		isExhausted = true;
 	}
 	
-	// a unit test of the encryption
-	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException, InvalidKeySpecException {
-		Key privateKey = CryptoEngine.getVotePrivateKey();
-		Key publicKey = CryptoEngine.getVotePublicKey();
-		Vote v = new Vote(null);
-		int[] votes = {1,3,5,7};
-		v.voteType = voteTypes.ABOVE_LINE;
-		v.preferencesAbove = votes;
-		byte[] encryptedVote = v.encrypt(publicKey);
-		System.out.println("Length of encrypted vote: " + encryptedVote.length);
-		//Vote newVote = new Vote(encryptedVote, privateKey, null);
-		System.out.println("Encrypted Text:");
-		System.out.println(Base64.getEncoder().encodeToString(encryptedVote));
-		System.out.println("public key:");
-		System.out.println("-----BEGIN RSA PUBLIC KEY-----");
-		System.out.println(Base64.getEncoder().encodeToString(publicKey.getEncoded()));
-		System.out.println("-----END RSA PUBLIC KEY-----");
-		System.out.println("private key:");
-		System.out.println("-----BEGIN RSA PRIVATE KEY-----");
-		System.out.println(Base64.getEncoder().encodeToString(privateKey.getEncoded()));
-		System.out.println("-----END RSA PRIVATE KEY-----");
-	}
 }
